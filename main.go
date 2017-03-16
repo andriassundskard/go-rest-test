@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/andriassundskard/rest/handlers"
+	"github.com/andriassundskard/go-rest-test/handlers"
 )
 
 func main() {

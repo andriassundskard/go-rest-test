@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/andriassundskard/rest/controllers"
+	"github.com/andriassundskard/go-rest-test/controllers"
 	"github.com/julienschmidt/httprouter"
 	"gopkg.in/mgo.v2"
 )

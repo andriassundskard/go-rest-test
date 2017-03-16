@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/andriassundskard/rest/handlers"
+	"github.com/andriassundskard/go-rest-test/handlers"
 )
 
 var (
